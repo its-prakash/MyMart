@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Playwrite+MX:wght@100..400&family=Playwrite+US+Modern:wght@100..400&display=swap');
+
+* {
+
+    body {
+        background: linear-gradient(135deg, #0f2027, #203a43, #f8b500) !important;
+        background-size: cover;
+        min-height: 100vh;
+    }
+
+    /* font-family: 'Dancing Script'; */
+    font-weight: bolder;
+
+    .row {
+        margin: 0;
+        --bs-gutter-x: 0;
+    }
+}
+
+.signin-div {
+    background-image: url("../../assets/background_image/background3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
